@@ -1,5 +1,5 @@
 # Amrita Express
-*(Solitudine, determinazione, speranza: il viaggio di Amrita Express).*
+*Stella's Journey: a narrative path through solitude and hope. | Solitudine, determinazione, speranza: Amrita Express.*
 
 ---
 
@@ -12,4 +12,6 @@
   > *Follow the story on Blogger:* [amrita711.blogspot.com](URL_DIRETTO)
 
 ---
-[← Torna al Main Hub](https://stellaboschi.github.io/)
+[← Torna al Main Hub](https://stellaboschi.github.io/) 
+ 
+Copyright © 2003–2026 by Stella Boschi – Tutti i diritti riservati | All rights reserved.
