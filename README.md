@@ -21,4 +21,4 @@
 
 --- 
     
-Copyright © 2003–2026 by Stella Boschi – Tutti i diritti riservati | All rights reserved.
+*Copyright © 2003–2026 by Stella Boschi – Tutti i diritti riservati | All rights reserved.*
