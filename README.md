@@ -17,7 +17,7 @@
 
 ---
 
-[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+**[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)**
 
 ---
 
