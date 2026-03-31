@@ -7,7 +7,7 @@
 
 ---
 
-## 🚩 Scegli la tua lingua / Select Language
+## Scegli la tua lingua / Select Language
 
 * **[IT] Entra nel Viaggio (Italiano)**
 > *Segui il racconto su Blogger:* **[stella711.blogspot.com](https://stella711.blogspot.com/)**
@@ -17,7 +17,7 @@
 
 ---
   
-[← Torna al Main Hub](https://stellaboschi.github.io/)  
+**[← Torna al Main Hub](https://stellaboschi.github.io/)**  
 
 --- 
     
