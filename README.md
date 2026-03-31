@@ -1,5 +1,6 @@
+ 
 <p align="center">
-  <img src="AmritaExpress_Flying%20Amrita.jpg" width="100%" alt="Flying Amrita">
+  <img src="AmritaExpress_Flying%20Amrita.jpg" width="100%" alt="Illustrazione di una bambina volante, Flying Amrita, icona del progetto Amrita Express, che sorvola il crinale del Monviso visto da Marmora. L'immagine, ispirata allo stile di una fotografa amata dall'autrice, Natsumi Hayashi, rappresenta il salto verso la libertà e la speranza sopra le vette della Valle Maira.">
 </p>
  
 # Amrita Express
