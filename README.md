@@ -16,9 +16,9 @@
 > *Follow the story on Blogger:* **[amrita711.blogspot.com](https://amrita711.blogspot.com/)**
 
 ---
-  
-**[← Torna al Main Hub](https://stellaboschi.github.io/)**  
 
---- 
-    
-*Copyright © 2003–2026 by Stella Boschi – Tutti i diritti riservati | All rights reserved.*
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
+---
+
+*Copyright © 2003–2026 by Stella Boschi – All rights reserved.*
