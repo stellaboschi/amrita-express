@@ -22,4 +22,4 @@
 
 ---
 
-*Copyright © 2003–2026 by Stella Boschi – All rights reserved.*
+*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
