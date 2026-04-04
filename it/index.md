@@ -1,7 +1,7 @@
 # Benvenuti su Amrita Express | IT
 
 <p align="center">
-  <img src="../Assets/amrita_cat.jpg" width="80%" alt="Un gatto tigrato osserva il mondo, spirito guida di Amrita Express.">
+  <img src="../Assets/amrita_cat.jpg" style="width: 100%; max-width: 400px;" alt="Un gatto tigrato osserva il mondo, spirito guida di Amrita Express.">
 </p>
 
 ### Chi è Stella?
