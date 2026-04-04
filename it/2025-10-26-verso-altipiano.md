@@ -87,3 +87,10 @@ Foto scattate con Nikon D70
 [Comune di Marmora (CN)](https://www.comune.marmora.cn.it/)  
 [Consorzio Turistico Valle Maira](https://www.vallemaira.org/)  
 [in Val Maira.it • Portale di arte, cultura, storia e tradizioni di una delle più belle Valli Occitane](https://www.invalmaira.it/)  
+  
+---
+
+[← Return to Amrita Express - IT](index.md)  
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
+---  
