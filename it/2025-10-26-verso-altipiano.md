@@ -56,7 +56,7 @@ Ma attenzione, per arrivare in questo luogo perfetto, definitivo, ultimo, è nec
 ---  
 
 ## At Home | Here and Now
-09/01/2026
+09/01/2026  
 Post Scriptum
 
 Ora che sono qui sull’altipiano, lo spazio e il tempo sono fermi: ho tutto il tempo che desidero perché non devo andare da nessun'altra parte, ho tutto quello che mi serve perché tutto il tempo mio è qua e non c'è nessun altro posto al mondo dove dovrei essere, e non c'è nemmeno un altro tempo o un tempo che scorre altrove, perché in questo spazio è racchiuso tutto il mio passato, tutto il mio futuro.
