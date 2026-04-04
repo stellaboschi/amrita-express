@@ -10,14 +10,14 @@
 
 ## Scegli la tua lingua / Select Language
 
-* [[it/| [IT] Entra nel Viaggio (Italiano)]]
+* [[IT] Entra nel Viaggio (Italiano)](it/)
   > *Il nuovo hub per i racconti e il progetto Amrita Express.*
   >
   > _Puoi trovare l'archivio storico dei post anche su Blogger: [stella711.blogspot.com](https://stella711.blogspot.com)_
 
 ---
 
-* [[en/| [EN] Enter the Journey (English)]]
+* [[EN] Enter the Journey (English)](en/)
   > *The new hub for stories and the Amrita Express project.*
   >
   > _You can also find the historical archive of posts on Blogger: [amrita711.blogspot.com](https://amrita711.blogspot.com)_
