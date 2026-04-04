@@ -20,7 +20,7 @@ Solitudine, determinazione e speranza. Amrita Express.
 
 ---
 
-[← Return to Amrita Express](README.md)  
+[← Return to Amrita Express](https://stellaboschi.github.io/amrita-express/)  
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
 ---
