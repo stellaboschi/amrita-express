@@ -10,15 +10,22 @@
 
 ## Scegli la tua lingua / Select Language
 
-* **[IT] Entra nel Viaggio (Italiano)**
-> *Segui il racconto su Blogger:* **[stella711.blogspot.com](https://stella711.blogspot.com/)**
-
-* **[EN] Enter the Journey (English)**
-> *Follow the story on Blogger:* **[amrita711.blogspot.com](https://amrita711.blogspot.com/)**
+* [[it/| [IT] Entra nel Viaggio (Italiano)]]
+  > *Il nuovo hub per i racconti e il progetto Amrita Express.*
+  >
+  > _Puoi trovare l'archivio storico dei post anche su Blogger: [stella711.blogspot.com](https://stella711.blogspot.com)_
 
 ---
 
-**[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)**
+* [[en/| [EN] Enter the Journey (English)]]
+  > *The new hub for stories and the Amrita Express project.*
+  >
+  > _You can also find the historical archive of posts on Blogger: [amrita711.blogspot.com](https://amrita711.blogspot.com)_
+
+---
+
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
 
 ---
 
