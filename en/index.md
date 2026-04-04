@@ -4,12 +4,12 @@
 ![A tabby cat observes the world, the guiding spirit of Amrita Express.](../Assets/amrita_cat.jpg)
 
 ### About | Stella's Voice
-Stella is different.
-Stella is a serious soul.
-Steady, precise, dynamic—in constant, stubborn connection with a thousand diverse thoughts; deep, constructive, fired off in different directions and often unfenceable.
-Unique.
-Stella needs to write to live. To somehow confront her own complexity. Too many times she has missed the rhythm of reading and writing, re-reading and rewriting, one day after the next.
-Now, she will strive to always be herself.
+Stella is different.  
+Stella is a serious soul.  
+Steady, precise, dynamic—in constant, stubborn connection with a thousand diverse thoughts; deep, constructive, fired off in different directions and often unfenceable.  
+Unique.  
+Stella needs to write to live. To somehow confront her own complexity. Too many times she has missed the rhythm of reading and writing, re-reading and rewriting, one day after the next.  
+Now, she will strive to always be herself.  
 Solitude, determination, and hope. Amrita Express.  
 
 <p align="center">
