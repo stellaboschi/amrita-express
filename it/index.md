@@ -1,6 +1,6 @@
 # Benvenuti su Amrita Express | IT
 
-![Un gatto tigrato osserva il mondo, spirito guida di Amrita Express.](../Assets/amrita_cat.jpg)
+![A tabby cat observes the world, the guiding spirit of Amrita Express.](../Assets/amrita_cat.jpg)
 
 ### Chi è Stella?
 Stella è diversa.  
