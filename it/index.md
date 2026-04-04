@@ -3,7 +3,7 @@
 
 ![A tabby cat observes the world, the guiding spirit of Amrita Express.](../Assets/amrita_cat.jpg)
 
-### About
+### About | Stella's Voice
 Stella è diversa.  
 Stella è una persona seria.  
 Regolare, precisa, dinamica, in costante, ostinata connessione con mille pensieri diversi, profondi, costruttivi, sparati in direzioni diverse e spesso irrecintabili.   
