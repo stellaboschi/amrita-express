@@ -69,7 +69,7 @@ Sono arrivata. E Amrita è con me.
 </p>
 
 ## A story for you
-Alberi Senza Radici | Rootless Trees, Stella Boschi, 2003
+[Alberi Senza Radici - Rootless Trees, Stella Boschi, 2003](https://stellaboschi.github.io/alberi-senza-radici.html)
 
 <p align="center"> 
 <img src="../Assets/flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
