@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="flying-amrita-marmora.jpg" width="100%" alt="Illustrazione di una bambina volante, Flying Amrita, icona del progetto Amrita Express, che sorvola il crinale delle Alpi visto da Marmora. L'immagine, ispirata allo stile di una fotografa amata dall'autrice, Natsumi Hayashi, rappresenta il salto verso la libertà e la speranza sopra le vette della Valle Maira.">
+<img src="Assets/flying_amrita_onthego.jpg" alt="Illustration of a flying girl, Flying Amrita, icon of the Amrita Express project, soaring over the Alpine ridge seen from Marmora. Inspired by photographer Natsumi Hayashi, the image represents a leap toward freedom and hope above the peaks of the Maira Valley." width="100%">
 </p>
  
 # Amrita Express
