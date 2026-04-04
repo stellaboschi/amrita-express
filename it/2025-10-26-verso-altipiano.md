@@ -12,7 +12,7 @@ tags:
 (Few words)
 
 <p align="center"> 
-  <img src="../Assets/ontheway_marmora.jpg" style="width: 100%; max-width: 400px;" alt="Autumnal landscape in Maira Valley featuring trees with golden and orange leaves under a clear blue sky."> 
+  <img src="../Assets/ontheway_marmora.jpg" alt="Autumnal landscape in Maira Valley featuring trees with golden and orange leaves under a clear blue sky."> 
   <br> 
   <em>Marmora, Maira Valley</em> 
 </p>
