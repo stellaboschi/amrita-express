@@ -36,7 +36,7 @@ Perciò io scrivo per essere libera, per avere il sollievo di non essere me stes
 Scappare di qua e di là con la mente è la strategia migliore per sopravvivere a me stessa. Non riesco a pensare a nulla di meglio.
 
 <p align="center"> 
-  <img src="../Assets/ontheway_marmora2.jpg" style="width: 100%; max-width: 400px;" alt="A rugged mountain rock face seen from Marmora with golden and orange autumn branches in the foreground, overlooking the valley under a soft, hazy sky."> 
+  <img src="../Assets/ontheway_marmora2.jpg" alt="A rugged mountain rock face seen from Marmora with golden and orange autumn branches in the foreground, overlooking the valley under a soft, hazy sky."> 
   <br> 
   <em>Sfumature d'autunno a Marmora</em> 
 </p>
@@ -48,7 +48,7 @@ Ma attenzione, per arrivare in questo luogo perfetto, definitivo, ultimo, è nec
 *Soundtrack - We Can Be Strong, Willy Mason (per la salita)*
 
 <p align="center"> 
-  <img src="../Assets/ontheway_flying_amrita.jpg" style="width: 100%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
+  <img src="../Assets/ontheway_flying_amrita.jpg" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
   <br> 
   <em>Flying Amrita</em> 
 </p>
@@ -65,14 +65,14 @@ Sono arrivata. E Amrita è con me.
 *Soundtrack - Say Why, Zach Bryan (per l’arrivo)*
 
 <p align="center"> 
-<img src="../Assets/flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
+<img src="../Assets/Flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
 </p>
 
 ## A story for you
 [Alberi Senza Radici - Rootless Trees, Stella Boschi, 2003](https://stellaboschi.github.io/alberi-senza-radici.html)
 
 <p align="center"> 
-<img src="../Assets/flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
+<img src="../Assets/Flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project."> 
 </p>
 
 ## More
@@ -83,7 +83,7 @@ Foto scattate con Nikon D70
 * *Bartleby, the Scrivener: A Story of Wall Street*, Herman Melville, 1853
 * *The Order of Time*, Carlo Rovelli, 2017
 
-**Maira Valley**  
+**Maira Valley**
 [Comune di Marmora (CN)](https://www.comune.marmora.cn.it/)  
 [Consorzio Turistico Valle Maira](https://www.vallemaira.org/)  
 [in Val Maira.it • Portale di arte, cultura, storia e tradizioni di una delle più belle Valli Occitane](https://www.invalmaira.it/)  
