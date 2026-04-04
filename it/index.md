@@ -19,3 +19,4 @@ Solitudine, determinazione e speranza. Amrita Express.
 
 ### Lates Posts
 * [On The Way | Verso l'altipiano (26-10-2025)](2025-10-26-verso-altipiano.md)
+* [On The Way | Verso l’altipiano (26-10-2025)](2025-10-26-verso-altipiano.md)
