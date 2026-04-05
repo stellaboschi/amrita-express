@@ -11,16 +11,17 @@
 ## Scegli la tua lingua / Select Language
 
 * [[IT] Entra nel Viaggio (Italiano)](it/)
-  > *Il nuovo hub per il progetto Amrita Express.*
+  > *La casa del progetto Amrita Express.*
   >
   > _Puoi trovare l'archivio storico dei post anche su Blogger: [stella711.blogspot.com](https://stella711.blogspot.com)_
 
 ---
 
 * [[EN] Enter the Journey (English)](en/)
-  > *The new hub for the Amrita Express project.*
+  > *The home of the Amrita Express project.*
   >
-  > _You can also find the historical archive of posts on Blogger: [amrita711.blogspot.com](https://amrita711.blogspot.com)_
+  > _A few older posts, translated by the author alone, can still be found on Blogger: [amrita711.blogspot.com](https://amrita711.blogspot.com)_
+  > *Translation note: This English edition is a collaborative project between the author and Gemini 1.5 Flash (the April 2026 version of Google’s large language model). Together, we try to refine the fragments, seeking to preserve the essence of the original written voice.*
 
 ---
 
