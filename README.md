@@ -21,8 +21,6 @@
   > *The home of the Amrita Express project.*
   >
   > _A few older posts, translated by the author alone, can still be found on Blogger: [amrita711.blogspot.com](https://amrita711.blogspot.com)_
-  > 
-  > Translation note: This English edition is a collaborative project between the author and Gemini 3 Flash (the April 2026 version of Google’s large language model). Together, we try to refine the fragments, seeking to preserve the essence of the original written voice.
 
 ---
 
