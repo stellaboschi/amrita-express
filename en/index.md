@@ -32,6 +32,7 @@ _Listen to the sounds that shaped this journey:_
 
 ### Author's Note
 This blog is a clumsy literary experiment; it does not recount real events but invented stories, gathering random words that do not deserve to be called poems. However, the gratitude scattered throughout is sincere.  
+
 This English edition is a collaborative project between the author and Gemini 3 Flash (the April 2026 version of Google’s large language model). Together, we try to refine the fragments, seeking to preserve the essence of the original written voice.
 
 ---
