@@ -1,7 +1,7 @@
 # Amrita Express | EN
 *Stella's Journey: a narrative path through solitude and hope.*
 
-![A tabby cat observes the world, the guiding spirit of Amrita Express.](../Assets/amrita_cat.jpg)
+![A close-up of a tabby cat with an untamed gaze, its eyes framed by natural eyeliner. It gazes fiercely upward and to the right (North-East), symbolizing a vision projected toward the future and serving as the guiding spirit for the Amrita Express journey.](../Assets/amrita_cat.jpg)
 
 ### About | Stella's Voice
 Stella is different.  
