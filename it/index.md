@@ -10,6 +10,7 @@ Regolare, precisa, dinamica, in costante, ostinata connessione con mille pensier
 Unica.  
 Stella ha bisogno di scrivere per vivere. Per fronteggiare in qualche modo la propria complessità. Troppe volte le è mancata la sensazione di leggere e scrivere, rileggere e riscrivere, un giorno dopo l'altro.  
 Ora cercherà di essere sempre se stessa.  
+
 Solitudine, determinazione e speranza.  
 Amrita Express.
 <p align="center">
