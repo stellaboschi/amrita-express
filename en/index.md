@@ -10,8 +10,10 @@ Steady, precise, dynamic—in constant, stubborn connection with a thousand dive
 Unique.  
 Stella needs to write to live. To somehow confront her own complexity. Too many times she has missed the rhythm of reading and writing, re-reading and rewriting, one day after the next.  
 Now, she will strive to always be herself.  
+
 Solitude, determination, and hope.  
 Amrita Express.  
+
 <p align="center">
   <img src="../Assets/amrita_bernina_express.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Landwasser Viaduct of the Bernina Express. Inspired by Natsumi Hayashi's photography, this iconic image represents a leap toward freedom and hope, symbolizing the spirit of the Amrita Express project.">
 </p>
