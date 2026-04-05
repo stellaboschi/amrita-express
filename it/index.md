@@ -13,13 +13,25 @@ Ora cercherà di essere sempre se stessa.
 
 Solitudine, determinazione e speranza.  
 Amrita Express.
- 
+
 <p align="center">
   <img src="../Assets/amrita_bernina_express.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Landwasser Viaduct of the Bernina Express. Inspired by Natsumi Hayashi's photography, this iconic image represents a leap toward freedom and hope, symbolizing the spirit of the Amrita Express project.">
 </p>
 
 ### Lates Posts
 * [On The Way - Verso l'altipiano (26-10-2025)](2025-10-26-verso-altipiano.md)
+
+<p align="center">
+<img src="../Assets/flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project.">
+</p>
+
+_Listen to the sounds that shaped this journey:_ 
+[Amrita Express Soundtrack on Spotify](https://open.spotify.com/playlist/5hjxVVAKMyPxwsN4nNnfcf)
+
+---
+
+### Nota dell'Autrice
+Questo blog è un maldestro esperimento letterario, non racconta fatti reali ma storie inventate e raccoglie parole a caso che non meritano di essere definite poesie. Tuttavia, i ringraziamenti in esso disseminati sono sinceri.  
 
 ---
 
