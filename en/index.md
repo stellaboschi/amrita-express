@@ -23,7 +23,11 @@ Solitude, determination, and hope. Amrita Express.
 
 *Translation note: This English edition is a collaborative project between the author and Gemini 1.5 Flash (the April 2026 version of Google’s large language model). Together, we try to refine the fragments, seeking to preserve the essence of the original written voice.*  
 
+---
+
 [← Return to Amrita Express - EN](index.md)  
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
+---
 
 *Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
