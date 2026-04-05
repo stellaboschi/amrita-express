@@ -83,10 +83,10 @@ Foto scattate con Nikon D70
 * *Bartleby, the Scrivener: A Story of Wall Street*, Herman Melville, 1853
 * *The Order of Time*, Carlo Rovelli, 2017
 
-**Maira Valley**  
-[Comune di Marmora (CN)](https://www.comune.marmora.cn.it/)  
-[Consorzio Turistico Valle Maira](https://www.vallemaira.org/)  
-[in Val Maira.it • Portale di arte, cultura, storia e tradizioni di una delle più belle Valli Occitane](https://www.invalmaira.it/)  
+**About Maira Valley:**  
+* [Comune di Marmora (CN)](https://www.comune.marmora.cn.it/)  
+* [Consorzio Turistico Valle Maira](https://www.vallemaira.org/)  
+* [in Val Maira.it • Portale di arte, cultura, storia e tradizioni di una delle più belle Valli Occitane](https://www.invalmaira.it/)  
   
 ---
 
