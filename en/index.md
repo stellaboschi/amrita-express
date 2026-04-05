@@ -19,7 +19,7 @@ Amrita Express.
 </p>
 
 ### Lates Posts
-* [On The Way - Verso l'altipiano (26-10-2025)](2025-10-26-verso-altipiano.md)
+* [On The Way (26-10-2025)](2025-10-26-on-the-way.md)
 
 <p align="center">
 <img src="../Assets/flying_amrita_onthego.jpg" style="width: 60%; max-width: 400px;" alt="Decorative divider: Dark silhouette of Flying Amrita leaping over the Alpine ridge of Marmora. Inspired by Natsumi Hayashi's photography, the image symbolizes a leap toward freedom and the spirit of the Amrita Express project.">
