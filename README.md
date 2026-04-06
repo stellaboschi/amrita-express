@@ -4,20 +4,19 @@
 </p>
  
 # Amrita Express
-*Stella's Journey: a narrative path through solitude and hope. | Solitudine, determinazione, speranza: Amrita Express.*
+*Stella's Journey: a narrative path through solitude and hope.*  
+Solitudine, determinazione, speranza: Amrita Express.
 
 ---
 
-## Scegli la tua lingua / Select Language
+## Select Language
 
-* [[IT] Entra nel Viaggio (Italiano)](it/)
+[[IT] Entra nel Viaggio (Italiano)](it/)
   > *La casa del progetto Amrita Express.*
-  >  
+  > 
   > _Puoi trovare l'archivio storico dei post anche su Blogger: [stella711.blogspot.com](https://stella711.blogspot.com)_
 
----
-
-* [[EN] Enter the Journey (English)](en/)
+[[EN] Enter the Journey (English)](en/)
   > *The home of the Amrita Express project.*
   >  
   > _A few older posts, translated by the author alone, can still be found on Blogger: [amrita711.blogspot.com](https://amrita711.blogspot.com)_
