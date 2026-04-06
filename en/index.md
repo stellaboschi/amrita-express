@@ -40,6 +40,7 @@ This English edition is a collaborative project between the author and Gemini 3 
 ---
 
 [← Return to Amrita Express](https://stellaboschi.github.io/amrita-express/)  
+
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
 ---
