@@ -1,4 +1,4 @@
-<link rel="icon" type="image/svg+xml" href="https://stellaboschi.github.io/amrita-express/favicon.svg">  
+<link rel="icon" type="image/svg+xml" href="https://stellaboschi.github.io/amrita-express/favicon.svg">
 
 <p align="center">
 <img src="Assets/flying_amrita_onthego.jpg" alt="Illustration of a flying girl, Flying Amrita, icon of the Amrita Express project, soaring over the Alpine ridge seen from Marmora. Inspired by photographer Natsumi Hayashi, the image represents a leap toward freedom and hope above the peaks of the Maira Valley." width="100%">
