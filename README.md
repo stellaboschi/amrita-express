@@ -23,6 +23,6 @@ Solitudine, determinazione, speranza: Amrita Express.
 
 ---
 
-[← Return to Stella Boschi's Main Hub](README.md)
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
 {% include footer.html %}
